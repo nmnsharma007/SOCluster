@@ -4,7 +4,7 @@ import dataframe_image as dfi
 
 join = os.path.join
 
-path = join(os.getcwd(), 'js_python')
+path = join(os.getcwd(), 'js_python_density')
 
 score_10k = {}
 score_20k = {}
